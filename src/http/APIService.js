@@ -1,5 +1,5 @@
 import axios from 'axios'
-const API_URL = "https://movies-groyce.pythonanywhere.com/";  /*"http://127.0.0.1:8000/"; */
+const API_URL = "https://movie-vue3.herokuapp.com/";/*"https://movies-groyce.pythonanywhere.com/";  /*"http://127.0.0.1:8000/"; */
 
 export class APIService {
     constructor() {
