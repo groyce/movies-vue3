@@ -1,4 +1,4 @@
-# movie-fe-adele
+# movie-fe
 
 ## Project setup
 ```
